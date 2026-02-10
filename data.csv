@@ -1,0 +1,6 @@
+Model,Accuracy,Downloads,SizeMB,ParametersM
+all-MiniLM-L6-v2,0.84,154102120,100,50
+all-mpnet-base-v2,0.87,23498101,100,50
+paraphrase-MiniLM-L12-v2,0.85,50159,100,50
+distilbert-base-nli-stsb-mean-tokens,0.82,55063,100,50
+multi-qa-MiniLM-L6-cos-v1,0.83,850628,100,50

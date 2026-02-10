@@ -1,0 +1,6 @@
+Model,Accuracy,Downloads,SizeMB,ParametersM,TOPSIS Score,Rank
+all-MiniLM-L6-v2,0.84,154102120,100,50,0.9687734147686201,1.0
+all-mpnet-base-v2,0.87,23498101,100,50,0.15994201602787161,2.0
+paraphrase-MiniLM-L12-v2,0.85,50159,100,50,0.031226585231379708,3.0
+distilbert-base-nli-stsb-mean-tokens,0.82,55063,100,50,3.178755534196392e-05,5.0
+multi-qa-MiniLM-L6-cos-v1,0.83,850628,100,50,0.011846244012611697,4.0
