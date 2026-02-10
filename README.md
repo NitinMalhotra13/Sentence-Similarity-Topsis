@@ -97,6 +97,12 @@ The model with the **highest TOPSIS score** is considered the best overall sente
 
 ---
 
+## Result
+
+The model all-MiniLM-L6-v2 is the best overall model.
+
+---
+
 ##  Technologies Used
 - Python  
 - Pandas  
